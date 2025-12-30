@@ -1,1 +1,51 @@
-
+{
+	"info": {
+		"_postman_id": "1d31dc68-78a3-4517-a8d4-fb1740c9cbcf",
+		"name": "API Testing – ReqRes",
+		"description": "Postman API automation project covering CRUD operations and validations",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33158603"
+	},
+	"item": [
+		{
+			"name": "GET – List Users",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET – Single User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST – Create User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PUT – Update User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE – Delete User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
